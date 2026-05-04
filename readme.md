@@ -100,6 +100,6 @@ This project is licensed under the [MIT License](LICENSE).
 * **Chroma** for the vector database
 
 <div align="center">
-  <sub>Designed and developed with ❤️ by Alan Cyril Sunny</sub><br>
+  <sub>Developed with ❤️ by Alan Cyril Sunny</sub><br>
   <sub>If you find this project helpful, please consider ⭐ <a href="https://github.com/dragonpilee/Kemi">starring the repository!</a></sub>
 </div>

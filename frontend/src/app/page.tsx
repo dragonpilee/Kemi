@@ -100,7 +100,7 @@ export default function Home() {
       )}
 
       <footer className="footer">
-        <p>Designed and developed with ❤️ by Alan Cyril Sunny</p>
+        <p>Developed with ❤️ by Alan Cyril Sunny</p>
       </footer>
     </main>
   );

@@ -6,6 +6,7 @@ services:
       context: ./frontend
     ports:
       - "3005:3000"
+    command: npm run dev
     volumes:
       - ./frontend:/app
       - /app/node_modules
