@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+chromadb
+PyMuPDF
+pytesseract
+pillow
+python-docx
