@@ -98,6 +98,10 @@ export default function Home() {
           </div>
         </section>
       )}
+
+      <footer className="footer">
+        <p>Designed and developed with ❤️ by Alan Cyril Sunny</p>
+      </footer>
     </main>
   );
 }

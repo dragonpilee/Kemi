@@ -78,3 +78,13 @@ body {
 
 .analysis-box p { margin-bottom: 15px; font-size: 1.05rem; line-height: 1.7; }
 .analysis-box p:last-child { margin-bottom: 0; }
+
+.footer {
+  text-align: center;
+  margin-top: 60px;
+  padding-top: 20px;
+  border-top: 1px solid var(--glass-border);
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+}
