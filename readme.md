@@ -10,7 +10,7 @@ Kemi is a privacy-first, fully containerized AI application designed to scan, pa
 - **Biochemical Intelligence:** Uses Google's **MedGemma** (`medgemma1.5:4b`) to analyze the retrieved context and generate highly scientific, yet readable, biochemical breakdowns.
 - **Premium UI:** A stunning, responsive Next.js frontend featuring dark-mode aesthetics and glassmorphism.
 - **100% Local & Private:** All inference and data storage happens locally on your machine. No data is sent to the cloud.
-- **Native GPU Acceleration:** Offloads the heavy AI inference natively to your host machine's NVIDIA RTX 2050 GPU, avoiding Docker GPU virtualization bottlenecks.
+- **Native GPU Acceleration:** Offloads the heavy AI inference natively to your host machine's NVIDIA GPU, avoiding Docker GPU virtualization bottlenecks.
 
 ---
 
